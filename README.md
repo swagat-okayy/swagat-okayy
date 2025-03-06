@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Valorant**, **Data Science**, and **Machine Learning**.
 - 🌱 I’m currently learning **Python**, **Data Analysis**, **Deep Learning**, and **AI**.
 - 💞️ I’m looking to collaborate on **Data Science projects**, **Machine Learning models**.
-- 📫 How to reach me: You can contact me via **email** at mohantyswagat2003@gmail.com or on **Discord** at .
+- 📫 How to reach me: You can contact me via **email** at mohantyswagat2003@gmail.com or on **Discord** at swagat.okayy.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Did you know that octopuses have three hearts and blue blood?**
 
